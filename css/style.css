@@ -1,0 +1,10 @@
+.row{
+display: flex;
+flex-wrap: wrap;
+}
+table {
+  border-collapse: separate;
+}
+.dashed {
+  border-style: dashed;
+}
